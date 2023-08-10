@@ -1,5 +1,5 @@
 {
-  "name": "chrono-node",
+  "name": "@zhouzi/chrono-node",
   "description": "A natural language date parser in Javascript",
   "homepage": "http://github.com/wanasit/chrono",
   "repository": {
@@ -15,7 +15,7 @@
     "preset": "ts-jest"
   },
   "license": "MIT",
-  "version": "2.6.4",
+  "version": "2.7.0",
   "directories": {
     "source": "./src",
     "test": "./test"
